@@ -28,6 +28,12 @@
   area["wikipedia"="en:Woburn, Massachusetts"];
   area["wikipedia"="en:Melrose, Massachusetts"];
   area["wikipedia"="en:Stoneham, Massachusetts"];
+  area["wikipedia"="en:Salem, Massachusetts"];
+  area["wikipedia"="en:Lynn, Massachusetts"];
+  area["wikipedia"="en:Saugus, Massachusetts"];
+  area["wikipedia"="en:Swampscott, Massachusetts"];
+  area["wikipedia"="en:Nahant, Massachusetts"];
+  area["wikipedia"="en:Marblehead, Massachusetts"];
 )->.searchArea;
 
 // Query: all drinking water fountains in the search area
