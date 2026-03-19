@@ -53318,12 +53318,15 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
+        "bicycle_parking": "staple",
         "capacity": "4",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_inverted_V_shaped_bike_racks_in_Nubian_Square_Boston.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "File:2_inverted_V_shaped_bike_racks_in_Nubian_Square_Boston.jpg",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_inverted_V_shaped_bike_racks_in_Nubian_Square_Boston.jpg",
         "@id": "node/13172496912",
         "@type": "node"
       }
@@ -59985,6 +59988,81 @@
         "capacity": "2",
         "covered": "no",
         "@id": "node/13656679930",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0841764,
+          42.33015
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "staple",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_in_Nubian_Square_Boston.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_in_Nubian_Square_Boston.jpg",
+        "@id": "node/13657652517",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0838598,
+          42.3303582
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "staple",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_near_Bolling_Building.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_near_Bolling_Building.jpg",
+        "@id": "node/13657667490",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0834242,
+          42.3305297
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "staple",
+        "capacity": "9",
+        "colour": "grey",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A5_Staple_bike_rack_corner_of_Bolling_Building.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A5_Staple_bike_rack_corner_of_Bolling_Building.jpg",
+        "@id": "node/13657670905",
         "@type": "node"
       }
     },
