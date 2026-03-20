@@ -41416,8 +41416,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
-        "capacity": "5",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "no",
         "fee": "no",
         "@id": "node/12331281606",
         "@type": "node"
@@ -60063,6 +60064,24 @@
         "operator:type": "public",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A5_Staple_bike_rack_corner_of_Bolling_Building.jpg",
         "@id": "node/13657670905",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2359494,
+          42.3719351
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/13662982879",
         "@type": "node"
       }
     },
