@@ -60297,6 +60297,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0825338,
+          42.310024
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wave",
+        "capacity": "4",
+        "colour": "grey",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AGrey_wave_bike_rack_behind_building.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AGrey_wave_bike_rack_behind_building.jpg",
+        "@id": "node/13683919700",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0860541,
+          42.3163956
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "safe_loops",
+        "capacity": "4",
+        "colour": "red",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ARed_Spiral_Bike_Rack.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ARed_Spiral_Bike_Rack.jpg",
+        "@id": "node/13684011423",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
