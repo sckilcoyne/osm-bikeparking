@@ -21672,6 +21672,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "bollard",
         "capacity": "2",
+        "covered": "no",
         "@id": "node/9871290734",
         "@type": "node"
       }
@@ -21689,6 +21690,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "bollard",
         "capacity": "2",
+        "covered": "no",
         "@id": "node/9871290735",
         "@type": "node"
       }
@@ -21755,6 +21757,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "capacity": "8",
+        "covered": "no",
         "@id": "node/9871290758",
         "@type": "node"
       }
@@ -61551,6 +61554,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "covered": "no",
         "@id": "way/536658244",
         "@type": "way"
       }
