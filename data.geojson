@@ -62606,6 +62606,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.8936531,
+          42.5213384
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/13765395697",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
