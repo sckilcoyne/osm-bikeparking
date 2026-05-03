@@ -57712,6 +57712,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "6",
+        "covered": "no",
         "@id": "node/13420328509",
         "@type": "node"
       }
