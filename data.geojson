@@ -63119,6 +63119,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0815329,
+          42.3087939
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "colour": "silver",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_against_brick_wall_at_rear_of_CVS.jpg",
+        "indoor": "no",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_against_brick_wall_at_rear_of_CVS.jpg",
+        "@id": "node/13826278968",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
