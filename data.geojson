@@ -60513,8 +60513,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0945621,
-          42.3731254
+          -71.0945873,
+          42.373234
         ]
       },
       "properties": {
@@ -63136,6 +63136,60 @@
         "operator:type": "private",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_against_brick_wall_at_rear_of_CVS.jpg",
         "@id": "node/13826278968",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0987445,
+          42.3615946
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/13836531694",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0991943,
+          42.3619129
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "no",
+        "@id": "node/13836556281",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098822,
+          42.3616505
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/13836573744",
         "@type": "node"
       }
     },
