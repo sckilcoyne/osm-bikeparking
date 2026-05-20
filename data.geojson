@@ -63530,6 +63530,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0916986,
+          42.3329049
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "post_hoop",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13849743276",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0917945,
+          42.3330133
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "safe_loops",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13849776418",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
