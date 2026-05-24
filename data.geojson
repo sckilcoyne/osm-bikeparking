@@ -4498,24 +4498,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1114578,
-          42.3629126
-        ]
-      },
-      "properties": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "2",
-        "covered": "no",
-        "@id": "node/4841884768",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.1132265,
           42.3624344
         ]
@@ -4524,6 +4506,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "2",
+        "check_date:capacity": "2026-05-13",
         "covered": "no",
         "@id": "node/4841884769",
         "@type": "node"
@@ -63805,6 +63788,98 @@
         "capacity": "10",
         "covered": "yes",
         "@id": "node/13853804986",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1199891,
+          42.2546776
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AStaple_style_bike_rack_Fairmount_Av.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AStaple_style_bike_rack_Fairmount_Av.jpg",
+        "@id": "node/13867799536",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12132,
+          42.2562812
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A3_%22lollypop%22_style_bike_racks_in_front_of_an_apartment_building_on_Central_Av.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_%22lollypop%22_style_bike_racks_in_front_of_an_apartment_building_on_Central_Av.jpg",
+        "@id": "node/13867799537",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1207739,
+          42.2562033
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_%22Lollypop%22_style_bike_racks_to_the_side_of_the_Hyde_Park_Municipal_Building_in_Boston.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_%22Lollypop%22_style_bike_racks_to_the_side_of_the_Hyde_Park_Municipal_Building_in_Boston.jpg",
+        "@id": "node/13867831517",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8812445,
+          42.525246
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "10",
+        "@id": "node/13869465506",
         "@type": "node"
       }
     },
