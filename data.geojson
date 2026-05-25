@@ -63888,6 +63888,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.1217533,
+          42.2560708
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "post_hoop",
+        "capacity": "8",
+        "colour": "black",
+        "covered": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A4_Lollypop_style_bike_racks_in_front_of_a_newer_brick_building.jpg",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Lollypop_style_bike_racks_in_front_of_a_newer_brick_building.jpg",
+        "@id": "node/13870804291",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
